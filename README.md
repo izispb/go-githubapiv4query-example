@@ -15,7 +15,7 @@ query MyQuery {
   }
 ```
 ```
-Output:
+Example output:
 1: repo/ovner/stars: freeCodeCamp/freeCodeCamp/307316
 2: repo/ovner/stars: 996icu/996.ICU/248270
 3: repo/ovner/stars: vuejs/vue/153590
